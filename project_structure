@@ -1,0 +1,20 @@
+shopping-system/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   └── shop/
+│   │   │   │       ├── controller/
+│   │   │   │       ├── dao/
+│   │   │   │       ├── model/
+│   │   │   │       ├── service/
+│   │   │   │       └── util/
+│   │   ├── resources/
+│   │   └── webapp/
+│   │       ├── WEB-INF/
+│   │       │   ├── jsp/
+│   │       │   └── web.xml
+│   │       ├── css/
+│   │       ├── js/
+│   │       └── images/
+└── pom.xml 
